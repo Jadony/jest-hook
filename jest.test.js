@@ -1,11 +1,3 @@
-/*
- * @Author: 安风 jiadongyao@cai-inc.com
- * @Date: 2023-02-23 22:11:23
- * @LastEditors: 安风 jiadongyao@cai-inc.com
- * @LastEditTime: 2023-03-14 21:15:29
- * @FilePath: /auto-test-jest-learn/5.jest中的钩子函数/jest.test.js
- * @Description:
- */
 import Counter from './Counter';
 
 // const count = new Counter();
